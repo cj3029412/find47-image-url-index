@@ -9,4 +9,4 @@ It will be easy to use 02.csv to download images from https://find47.jp/ by the 
 
 ## Notes
  When using 02.csv to download toral 1080 images at each maximum size defined in the csv, around 10GB of storage space will be used with only jpg image files even afrer extracting, removing zip and attached text.
- Also, it will take one one night to all the images to be downloaded with enough waiting seconds to avoid server load.
+ Also, it will take one night to all the images to be downloaded with enough waiting seconds to avoid server load.
