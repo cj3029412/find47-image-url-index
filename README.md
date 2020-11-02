@@ -1,7 +1,7 @@
 # find47-image-url-index
-Find 47,  https://find47.jp/ index of image urls
+Find 47,  https://find47.jp/ index of image urls for published 1080 images (as of 2nd Nov 2020) there with each maximum size. 
 
-## TBD
+## Summary
 This repository includes only 2 CSV files.
  - 01.csv - with simplified information. Areas(0-7), Prefectures(0-46), Unique file index and maximum size of provided images (xl, l, m or s).
  - 02.csv - generated from 01.csv to provide just 2 rows for downloading, URL and ./hpg/something.zip to be downloaded on local storage. 
